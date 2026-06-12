@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# notes internes (tournage / sponsor) — ne pas publier
+NOTES-TOURNAGE.md
