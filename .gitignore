@@ -42,3 +42,6 @@ next-env.d.ts
 
 # notes internes (tournage / sponsor) — ne pas publier
 NOTES-TOURNAGE.md
+
+# garder le template d'environnement
+!.env.example
